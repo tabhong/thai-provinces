@@ -4,8 +4,7 @@ Determine if lat,lng is inside which province (a polygon with a ray intersection
 This module casts a ray from the inquiry point and counts intersections,
 based on
 [this algorithm](http://www.ecse.rpi.edu/Homepages/wrf/Research/Short_Notes/pnpoly.html).
-and inside by James Halliday point-in-polygon (MIT License)
-https://github.com/substack/point-in-polygon
+and inside by James Halliday [point-in-polygon](https://github.com/substack/point-in-polygon).
 
 # example
 
