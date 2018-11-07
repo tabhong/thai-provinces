@@ -1,5 +1,5 @@
 # thai-provinces
-Determine if lat,lng is inside which province (a polygon with a ray intersection counting algorithm) that located in Thailand 
+Determine if lat,lng is inside which province that located in Thailand 
 
 This module casts a ray from the inquiry point and counts intersections,
 based on
